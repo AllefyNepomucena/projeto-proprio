@@ -6,11 +6,12 @@ h1{
      font-size: 100px ;
      margin-top: 200px;
  }
- input#txtemail{
-    
- }
- input#txtsenha{
+ 
+p#email, input#txtsenha, p#botao{
+    margin-left: 50%;
+    width: 200px;
 
- }
-   
     
+} 
+
+
